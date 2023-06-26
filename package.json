@@ -2,7 +2,7 @@
   "name": "conversations-demo-sdk-update",
   "version": "1.2.0",
   "private": true,
-  "proxy": "http://localhost:3001",
+  "proxy": "http://localhost:555555",
   "dependencies": {
     "@twilio/conversations": "1.2.0",
     "antd": "^3.26.20",

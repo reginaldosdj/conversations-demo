@@ -68,7 +68,7 @@ class ConversationsApp extends React.Component {
 
   getToken = () => {
     // Paste your unique Chat token function
-    const myToken = "<Your token here>";
+    const myToken = "611a327c1c042f09341aa4109dab6be5";
     this.setState({ token: myToken }, this.initConversations);
   };
 
